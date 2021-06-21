@@ -2,7 +2,7 @@ import webpackConfig from './config';
 const path = require('path');
 const fsExtra = require('fs-extra');
 const webpack = require('webpack');
-const { merge } = require('webpack-merge');
+const merge = require('webpack-merge');
 const hash = require('object-hash');
 const MemoryFileSystem = require('memory-fs');
 const AddAssetHtmlPlugin = require('add-asset-html-webpack-plugin');

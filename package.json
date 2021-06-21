@@ -1,6 +1,6 @@
 {
   "name": "@daipeng7/dll-webpack-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "a simple plugin for dll bundle",
   "author": "daipeng7",
   "publishConfig": {
