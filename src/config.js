@@ -1,5 +1,5 @@
 
-module.exports = {
+export default {
 	mode: 'production',
 	name: 'DllWebpackPlugin',
 	entry: {},
